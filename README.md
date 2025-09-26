@@ -54,8 +54,8 @@ I love bridging the world of frontend/backend with big data pipelines—deliveri
 
 ## 📫 Connect With Me  
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)  
-- Email: your.email@example.com  
+- LinkedIn: https://www.linkedin.com/in/nitin-misal-9a7b68118/  
+- Email: misalnitin.beit@gmail.com  
 //- Portfolio / Blog: https://your-website.com  
 
 ---
