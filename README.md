@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hello, I'm Nitin Misal  
+## 👋 Hello, I'm Nitin Misal  
 **Full Stack & Big Data Engineer**
 
 ---
@@ -18,12 +17,12 @@ I love bridging the world of frontend/backend with big data pipelines—deliveri
 
 | Area | Tools & Technologies |
 |---|---|
-| **Frontend / UI** | React, Vue, Angular, JavaScript / TypeScript, HTML, CSS |
+| **Frontend / UI** | React, Angular, JavaScript / TypeScript, HTML, CSS |
 | **Backend / API / Services** | Java / Spring Boot | Node.js, Express, Django / Flask 
-| **Data / Big Data** | Apache Spark, Kafka, Flink, Hive, Hadoop, AWS Glue |
-| **Databases** | PostgreSQL, MySQL, MongoDB, DynamoDB, Redis |
+| **Data / Big Data** | Hadoop,Spark, Hbase, Hive, AWS Glue 
+| **Databases** | MySQL, PostgreSQL,  MongoDB, DynamoDB, Redis |
 | **Cloud / Infra / DevOps** | AWS (EC2, S3, Lambda), Kubernetes, Docker, Terraform, CI/CD |
-| **Languages** | JavaScript, TypeScript, Python, Java, SQL |
+| **Languages** | Java, Python, C#, JavaScript, TypeScript, SQL |
 
 ---
 
