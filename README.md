@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Nitin Misal  
-**Full Stack & Big Data Engineer**
+** Software Engineer (Full Stack & Big Data) **
 
 ---
 
