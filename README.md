@@ -18,11 +18,12 @@ I love bridging the world of frontend/backend with big data pipelines—deliveri
 | Area | Tools & Technologies |
 |---|---|
 | **Frontend / UI** | React, Angular, JavaScript / TypeScript, HTML, CSS |
-| **Backend / API / Services** | Java / Spring Boot | Node.js, Express, Django / Flask 
+| **Backend / API / Services** | Java / Spring Boot, Node.js, Express, Django / Flask 
 | **Data / Big Data** | Hadoop,Spark, Hbase, Hive, AWS Glue 
 | **Databases** | MySQL, PostgreSQL,  MongoDB, DynamoDB, Redis |
-| **Cloud / Infra / DevOps** | AWS (EC2, S3, Lambda), Kubernetes, Docker, Terraform, CI/CD |
-| **Languages** | Java, Python, C#, JavaScript, TypeScript, SQL |
+| **Cloud / Infra / DevOps** | AWS (EC2, S3, Lambda), CI/CD, Kubernetes, Docker, Terraform |
+| **Languages** | Java, Python, C# |
+| **Mobile Apps** | React Nativ, Flutter, Ionic |
 
 ---
 
