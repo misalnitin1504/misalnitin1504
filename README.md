@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Nitin Misal  
-Software Engineer | Full Stack | Big Data | BackEnd Developer  
+**Software Engineer | Full Stack | Big Data | BackEnd Developer**  
 Pune, India | 8905674813 | misalnitin.beit@gmail.com |  
 Linkedin: https://www.linkedin.com/in/nitin-misal-9a7b68118/  
 GitHub: https://github.com/misalnitin1504
