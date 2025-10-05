@@ -21,7 +21,7 @@ As a Junior Software Engineer at ProminentPixel, I was part of a cross-functiona
 | **Databases** | MySQL, PostgreSQL,  MongoDB, DynamoDB, Redis |
 | **Cloud / Infra / DevOps** | AWS (EC2, S3, Lambda), CI/CD, Kubernetes, Docker, Terraform |
 | **Languages** | Java, Python, C# |
-| **Mobile Apps** | React Nativ, Flutter, Ionic |
+| **Mobile Apps** | React Native, Flutter, Ionic |
 
 ---
 
