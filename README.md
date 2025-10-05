@@ -5,8 +5,8 @@
 
 ## 🎯 About Me  
 As a Junior Software Engineer at ProminentPixel, I was part of a cross-functional development team responsible for building, integrating, and maintaining backend(Spring Boot) and frontend(React), ensuring high reliability and code quality across multiple environments. I closely collaborated with QA, DevOps, and product teams to deliver features, resolve issues, and document processes.
-- 🔭 Currently working on building full stack platforms and data processing systems  
-- 📚 Always learning: streaming systems, distributed architecture, AI/ML pipelines  
+- 🔭 Currently working on building full stack platforms  
+- 📚 Always learning new tach stack: Python, Dot Net, MERN/MEAN  
 - 💼 Open to collaborations, new opportunities, or side projects  
 
 ---
