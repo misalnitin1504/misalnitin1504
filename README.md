@@ -24,6 +24,19 @@ As a Junior Software Engineer at ProminentPixel, I was part of a cross-functiona
 | **Mobile Apps** | React Native, Flutter, Ionic |
 
 ---
+### EXPERIENCE  
+
+**Junior Software Engineer** | ProminentPixel, Surat | Sep 2022 – Oct 2023 (≈ 1.1 years)  
+- Resolved issues via **Jira / ServiceNow** tickets  
+- Built and maintained unit / integration tests using **JUnit, Mockito, PowerMock** to ensure high code coverage (via CodeCov)  
+- Integrated **Spring Boot** REST APIs with **React** frontends; implemented **JWT** authentication and secure endpoints  
+- Handled data ingestion & validation (JSON, CSV, XML) from **AWS S3** into databases across Dev / QA / UAT / Production environments  
+- Created and updated Standard Operating Procedures (SOPs), API specs, runbooks, Confluence templates  
+- Managed and monitored production **cron jobs**  
+- Handled pull / merge requests, conducted code reviews  
+- Authored technical documentation (API specs, runbooks, templates) on **Confluence**, linked to Jira  
+
+Through this role, I gained hands-on experience in full-stack development, production systems, cross-team collaboration, and delivering robust, tested, maintainable code.
 
 ## 🔍 Selected Projects  
 
