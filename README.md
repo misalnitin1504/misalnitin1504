@@ -4,9 +4,7 @@
 ---
 
 ## 🎯 About Me  
-I’m a software engineer with a passion for building **end-to-end applications** and **scalable data systems**.  
-I love bridging the world of frontend/backend with big data pipelines—delivering features and insights that users and stakeholders actually care about.
-
+As a Junior Software Engineer at ProminentPixel, I was part of a cross-functional development team responsible for building, integrating, and maintaining backend(Spring Boot) and frontend(React), ensuring high reliability and code quality across multiple environments. I closely collaborated with QA, DevOps, and product teams to deliver features, resolve issues, and document processes.
 - 🔭 Currently working on building full stack platforms and data processing systems  
 - 📚 Always learning: streaming systems, distributed architecture, AI/ML pipelines  
 - 💼 Open to collaborations, new opportunities, or side projects  
