@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Nitin Misal  
-**Software Engineer | Full Stack Developer & Big Data Enthusiast**  
+**Software Engineer | Java React Full Stack Developer | Big Data Enthusiast**  
 
 ---
 
